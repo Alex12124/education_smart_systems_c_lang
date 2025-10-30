@@ -1,0 +1,1 @@
+/usr/bin/clang-18 -g CMakeFiles/task11.dir/task11.c.o -o task11 

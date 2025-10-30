@@ -1,0 +1,1 @@
+/usr/bin/clang-18 -g CMakeFiles/task7.dir/task7.c.o -o task7 

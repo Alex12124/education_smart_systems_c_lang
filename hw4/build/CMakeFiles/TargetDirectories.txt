@@ -1,0 +1,13 @@
+/home/alex/Documents/education_smart_systems_c_lang/hw4/build/CMakeFiles/task7.dir
+/home/alex/Documents/education_smart_systems_c_lang/hw4/build/CMakeFiles/task8.dir
+/home/alex/Documents/education_smart_systems_c_lang/hw4/build/CMakeFiles/task9.dir
+/home/alex/Documents/education_smart_systems_c_lang/hw4/build/CMakeFiles/task10.dir
+/home/alex/Documents/education_smart_systems_c_lang/hw4/build/CMakeFiles/task11.dir
+/home/alex/Documents/education_smart_systems_c_lang/hw4/build/CMakeFiles/task14.dir
+/home/alex/Documents/education_smart_systems_c_lang/hw4/build/CMakeFiles/task15.dir
+/home/alex/Documents/education_smart_systems_c_lang/hw4/build/CMakeFiles/task16.dir
+/home/alex/Documents/education_smart_systems_c_lang/hw4/build/CMakeFiles/task17.dir
+/home/alex/Documents/education_smart_systems_c_lang/hw4/build/CMakeFiles/task18.dir
+/home/alex/Documents/education_smart_systems_c_lang/hw4/build/CMakeFiles/task19.dir
+/home/alex/Documents/education_smart_systems_c_lang/hw4/build/CMakeFiles/edit_cache.dir
+/home/alex/Documents/education_smart_systems_c_lang/hw4/build/CMakeFiles/rebuild_cache.dir
